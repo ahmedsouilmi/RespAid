@@ -7,7 +7,7 @@ A simple AI-powered medical expert system built with Python and Tkinter to diagn
 - Export diagnosis and recommendation to PDF or text file
 - Clear and professional interface
 
-![Screenshot](assets/screenshot.png)
+![Screenshot](screenshot.jpg)
 
 
 - Influenza
